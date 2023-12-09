@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Stream;
 
-public class Task_5 {
+public class Task5 {
     public static <T> Stream<T> zip(Stream<T> first, Stream<T> second) {
         List<T> listA = new java.util.ArrayList<>(first.toList());
         List<T> listB = second.toList();

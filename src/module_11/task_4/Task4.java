@@ -2,7 +2,7 @@ package module_11.task_4;
 
 import java.util.stream.Stream;
 
-public class Task_4 {
+public class Task4 {
     public static void main(String[] args) {
         long a = 25214903917L;
         long c = 11L;
